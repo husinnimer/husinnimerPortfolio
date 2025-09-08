@@ -166,7 +166,7 @@ const projects = [
   {
     name: "Bug-Bounty Syria",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "I developed a project similar to HackerOne, designed to facilitate collaboration between security researchers and companies for identifying and addressing security vulnerabilities. The platform enables users to submit and track bug reports with a user-friendly interface and advanced security features.",
     tags: [
       {
         name: "react",
@@ -187,7 +187,7 @@ const projects = [
   {
     name: "Full-Ecommerce",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "I developed a full-fledged e-commerce project offering a comprehensive platform for displaying and managing products, with a shopping cart system and multiple payment options.",
     tags: [
       {
         name: "react",
@@ -208,7 +208,7 @@ const projects = [
   {
     name: "Books Library",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "I developed a book library project that allows users to browse available books, search for them, and borrow them virtually, with features for seamless content management.",
     tags: [
       {
         name: "react",
